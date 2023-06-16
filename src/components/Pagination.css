@@ -1,0 +1,9 @@
+.pagination button {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .pagination span {
+    margin: 0 10px;
+  }
+  
